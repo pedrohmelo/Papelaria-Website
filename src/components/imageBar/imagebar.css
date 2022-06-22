@@ -1,0 +1,6 @@
+.image-swipe{
+    width: 100%;
+    height: 23rem;
+    display: flex;
+    border: 1px solid blue;
+}
